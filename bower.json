@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jagger81 <eddie.cranmer@concern.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Jagger81/angular-todo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6"
+  }
+}
